@@ -21,7 +21,7 @@ h4{
 	font-family: 'Open Sans Condensed', helvetica, sans-serif;
 	font-weight: 700;
 	margin-bottom: 10px;
-	color: #0052A5;
+	color: #091f43;
 }
 
 h3{
@@ -39,7 +39,7 @@ header{
 	justify-content: center;
     align-items: center;
 	height: 225px;
-	background-color: #0052A5;
+	background-color: #091f43;
 }
 
 header h4{
@@ -101,7 +101,7 @@ footer{
     flex-direction: column;
     justify-content: center;
     height: auto;
-    background-color: #0052A5;
+    background-color: #091f43;
     color: white;
 }
 
@@ -116,5 +116,5 @@ footer{
 .location, 
 .telephone{
 	text-align: center;
-	margin-top: -35px
+	margin-top: -35px;
 }
