@@ -51,8 +51,8 @@ header h4{
 
 header img{
   margin-top: 15px;
-  max-height: 150px;
-  width: auto;
+  max-width: 150px;
+  height: auto;
 }
 header a{
 	color: white;
