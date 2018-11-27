@@ -107,7 +107,9 @@ nav a:hover{
 }
 
 
-.donate a{
+.donate a, 
+.donate h1,
+.donate h6{
   text-decoration: none;
 }
 
@@ -143,5 +145,5 @@ footer{
 
 h6 span{
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
