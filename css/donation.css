@@ -54,14 +54,17 @@ header img{
   max-width: 150px;
   height: auto;
 }
+
+header h4{
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+}
 header a{
 	color: white;
 	font-size: 14px;
 }
 
-header p{
-	width: ;
-}
 
 header nav{
 	padding-bottom: 10px;
@@ -69,7 +72,7 @@ header nav{
 
 nav{
 	display: flex;
-	justify-content: center;;
+	justify-content: center;
 }
 
 nav a{

@@ -61,9 +61,6 @@ header a{
 	font-size: 14px;
 }
 
-header p{
-	width: ;
-}
 
 header nav{
 	padding-bottom: 10px;
@@ -71,7 +68,7 @@ header nav{
 
 nav{
 	display: flex;
-	justify-content: center;;
+	justify-content: center;
 }
 
 nav a{
