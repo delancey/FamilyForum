@@ -253,6 +253,10 @@ h6 span{
     padding: 0 50px;  
   }
   
+  
+  hr{
+    display:none;
+  }
 }
 
 
